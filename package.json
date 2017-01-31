@@ -11,9 +11,16 @@
     "debug": "~2.2.0",
     "express": "~4.14.0",
     "jade": "~1.11.0",
+    "mocha": "~3.2.0",
     "morgan": "~1.7.0",
+    "pug": "^0.1.0",
+    "seconds": "~0.2.1",
     "serve-favicon": "~2.3.0",
-    "should": "~11.1.2",
-    "seconds": "~0.2.1"
+    "should": "~11.1.2"
+  },
+  "devDependencies": {
+    "mocha": "~3.2.0",
+    "chai": "~3.5.0",
+    "expect.js": "~0.3.1"
   }
 }
